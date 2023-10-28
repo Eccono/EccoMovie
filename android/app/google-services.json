@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388667430010",
+    "project_id": "eccovie-766e9",
+    "storage_bucket": "eccovie-766e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388667430010:android:63f0c1a7742b209bf5d7c3",
+        "android_client_info": {
+          "package_name": "com.eccono.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9zngFRdzyeop2iDlHP7lXABo8eL6oBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
